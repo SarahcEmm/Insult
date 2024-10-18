@@ -4,7 +4,7 @@ body {
 	background-color: orange;
 	color: aliceblue;
 }
-.myButton {
+.mybutton {
 	background-color: orange;
 	font-size: 200%;
 	margin: 50px;
@@ -23,7 +23,8 @@ body {
 	background-position: center;
 
   }
-  #output {
+  .output-box {
 	font-size: 300%;
 	text-align: center;
+	margin: auto;
   }
