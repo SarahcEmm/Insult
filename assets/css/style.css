@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Barrio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
 body {
-	font-family: Barriecito, sans-serif;
+	font-family: Chewy, sans-serif;
 	background-color: orange;
 	color: aliceblue;
 }
@@ -9,7 +10,7 @@ body {
 	font-size: 200%;
 	margin: 50px;
 	padding: 20px;
-	font-family: Barriecito, sans-serif;
+	font-family: Chewy, sans-serif;
 	color: white;
 
 }
